@@ -7,7 +7,7 @@
 4. What is SOL token
 5. What are Smart Contracts
 
-1. Introduction to solana
+Introduction to solana
 Solana is a decentralized protocol for building dApps with a reported throughput of 65,000
 transactions per second (TPS) thanks to its distributed computing system. 
 Unlike most protocol that run with the Proof of Stake (PoS) or Proof of Work (PoW) mechanism, 
